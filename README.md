@@ -1,31 +1,27 @@
 # Hi, I'm SiriusArc7
 
-Web developer with experience in **web development**, **workflow improvement / automation**, and **technical education for junior engineers**.
+Web developer focused on workflow improvement, technical education, and building sustainable ways for teams to work and learn.
 
-I’m most effective when I can observe bottlenecks in a team or workflow, then turn them into something more sustainable through:
-- better documentation and supplemental materials
-- simpler operational flows
-- small internal tools, scripts, or lightweight systems
-- support that helps beginners become self-sufficient
+I’m most effective when I can observe bottlenecks in a team or workflow, then turn them into something more sustainable through documentation, supplemental materials, simpler operational flows, and small internal tools or scripts.
 
 ## What I focus on
-- Making manual or error-prone work more reproducible
-- Reducing dependency on individual effort through tooling and process design
-- Explaining technical concepts clearly to non-experts and beginners
+- Improving reproducibility in manual or error-prone work
+- Reducing dependency on individual effort through tools and process design
+- Making technical concepts understandable for non-experts and beginners
 - Supporting onboarding, learning, and developer productivity
 
 ## Selected public repositories
-- **TD2_GARL**  
+- **[TD2_GARL](https://github.com/SiriusArc7/TD2_GARL)**  
   A reverse-lookup web tool for *The Division 2* gear attributes.
-- **LINE_MessagingAPI_GarbageNotifier**  
+- **[LINE_MessagingAPI_GarbageNotifier](https://github.com/SiriusArc7/LINE_MessagingAPI_GarbageNotifier)**  
   A LINE bot that sends garbage collection reminders for local areas.
 
 ## Interests
 I’m particularly interested in roles related to:
 - developer enablement
-- onboarding / training design for junior engineers
+- onboarding and training design for junior engineers
 - workflow automation
 - AI-assisted development productivity
 
 ## Note
-Most of my work experience has been in private repositories or non-public environments, so the public repositories here represent only part of what I’ve worked on. I plan to add more sanitized / publishable examples over time.
+Many of my professional projects were developed in private repositories or non-public environments, so the public repositories here represent only part of my work. I plan to add more sanitized and publishable examples over time.
