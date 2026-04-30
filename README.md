@@ -15,9 +15,9 @@ I’m most effective when I can observe bottlenecks in a team or workflow, then 
   A reverse-lookup web tool for *The Division 2* gear attributes.
 - **[LINE_MessagingAPI_GarbageNotifier](https://github.com/SiriusArc7/LINE_MessagingAPI_GarbageNotifier)**  
   A LINE bot that sends garbage collection reminders for local areas.
-- **[ANNA-discord-bot](https://github.com/SiriusArc7/ANNA-discord-bot)
+- **[ANNA-discord-bot](https://github.com/SiriusArc7/ANNA-discord-bot)**
   A Discord bot for community moderation, event support, and player information utilities.
-- **[Ubisoft-Division2-Profile-Checker](https://github.com/SiriusArc7/Ubisoft-Division2-Profile-Checker)
+- **[Ubisoft-Division2-Profile-Checker](https://github.com/SiriusArc7/Ubisoft-Division2-Profile-Checker)**
 A sanitized Ubisoft / The Division 2 profile-checking module extracted from a Discord bot.
 
 ## Interests
